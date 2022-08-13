@@ -1,5 +1,4 @@
 - 👋 Hi, I’m XiaoWen Mao
 - 👀 I’m interested in electronics
-- 🌱 I’m currently learning linear algebra
 - 💞️ I’m looking to collaborate on exciting project
-- 📫 Email: neoway@126.com
+- 📫 Email: mxwiser@foxmail.com
