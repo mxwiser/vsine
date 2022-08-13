@@ -1,4 +1,4 @@
-- 👋 Hi, I’m XiaoWen Mao
+- 👋 Hi, I’m Xiaowen Mao
 - 👀 I’m interested in electronics
 - 💞️ I’m looking to collaborate on exciting project
 - 📫 Email: mxwiser@foxmail.com
